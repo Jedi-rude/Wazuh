@@ -4,7 +4,7 @@ Wazuh is a free and open source platform used for threat prevention, detection, 
 ## Deploy Windows agent
 The Wazuh agent is multi-platform and runs on the endpoints that the user wants to monitor. It communicates with the Wazuh server, sending data in near real-time through an encrypted and authenticated channel.
 
-## Pre-requistite
+## Pre-requisite
 -  [Wazuh Agent Manager](https://documentation.wazuh.com/current/installation-guide/wazuh-agent/wazuh-agent-package-windows.html)
 -  Wazuh Server
 -  Make sure wazuh agent & server are in same network
