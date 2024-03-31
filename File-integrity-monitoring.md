@@ -4,7 +4,7 @@ File Integrity Monitoring (FIM) is a security process used to monitor the integr
 It provides protection for sensitive data, application, and device files by monitoring, routinely scanning, and verifying their integrity. It helps organizations detect changes to critical files on their systems which reduces the risk of data being stolen or compromised.
 This process can save time and money in lost productivity, lost revenue, reputation damage, and legal and regulatory compliance penalties.
 
-## Pre-requistite
+## Pre-requisite
 -  [Wazuh Agent Manager](https://documentation.wazuh.com/current/installation-guide/wazuh-agent/wazuh-agent-package-windows.html)
 -  Wazuh Server
 -  Make sure wazuh agent & server are in same network
