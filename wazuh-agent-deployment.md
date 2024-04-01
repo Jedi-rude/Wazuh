@@ -27,6 +27,8 @@ Click on Manage & start Wazuh Agent Manager to parse log data.
 In our Wazuh Server, new agents was deployed.
 <p align="center"><img src="https://github.com/AungZayMyo/Wazuh/assets/154745254/a24becbe-90d3-4617-8e5f-c1b079ef2ba9" width="500px" height="300px"><br>Figure (6) </p>
 
+## Conclusion
+
 In this tutorial, Windows Wazuh Agent Deployment is demostrated. Do more Practice and Expert it!. <br>
 **3/27/2024** <br>
 Contributed By - Jord@n
