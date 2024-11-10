@@ -34,7 +34,7 @@ Which password is your gmail app password somethings like following figure.
 <p align="center"><img src="https://github.com/AungZayMyo/Wazuh/assets/154745254/aa559f84-6f91-4284-be82-b540d5c6d3ee" width="400px" height="250px"><br>Figure (2) </p>
 
 After that restart email service ``` systemctl restart postfix ```. And test email using following commands.
-- ``` echo "Test mail from postfix" | mail -s "Test Postfix" -r "you@example.com" you@example.com ```
+- ``` echo "Test mail from postfix" | mail -s "Test Postfix" -r "configure@example.com" participants@example.com ```
 It will sends somethings like following figure.
 
 <p align="center"><img src="https://github.com/AungZayMyo/Wazuh/assets/154745254/daa6a9ae-a596-47d8-ab22-103b1df925cd" width="500px" height="250px"><br>Figure (3) </p>
