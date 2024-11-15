@@ -9,6 +9,8 @@ The Wazuh agent is multi-platform and runs on the endpoints that the user wants 
 -  Wazuh Server
 -  Make sure wazuh agent & server are in same network
 
+###  Method - 1
+
 To Deploy agent type followings commands in terminal, ``` /var/ossec/bin/manage_agents ``` and select ``` A ``` to add new agent.
 <p align="center"><img src="https://github.com/AungZayMyo/Wazuh/assets/154745254/9b3c0ca0-a57a-41a5-879a-8aa9058d4c80" width="400px" height="250px"><br>Figure (1) </p>
 
@@ -26,6 +28,12 @@ Click on Manage & start Wazuh Agent Manager to parse log data.
 
 In our Wazuh Server, new agents was deployed.
 <p align="center"><img src="https://github.com/AungZayMyo/Wazuh/assets/154745254/a24becbe-90d3-4617-8e5f-c1b079ef2ba9" width="500px" height="300px"><br>Figure (6) </p>
+
+
+###  Method - 2
+
+
+
 
 ## Conclusion
 
